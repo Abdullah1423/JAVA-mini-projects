@@ -1,12 +1,12 @@
 <h1 align="center">Java Well Written Mini projects</h1>
-
 In this project, I have tried to write well-written code since I have struggled with code I can't understand, even though I wrote it.
 Here you will find many small projects. I have tried to make each one well documented, and there will be a readme to describe each project.
 
 You can be part of this project easily by checking **How To USE**.
 
 
-## [spaghetti code](https://vulcan.io/blog/what-is-spaghetti-code-and-why-is-it-a-problem/)
+## [Spaghetti Code](https://vulcan.io/blog/what-is-spaghetti-code-and-why-is-it-a-problem/)
+![Octocat](https://wietingdesign.com/wp-content/uploads/2018/12/Wieting-Design-404.jpg) 
 > Spaghetti code is the general term used for any source code that’s hard to understand because it has no defined structure. While an end user might not see anything wrong with a program, a programmer might find it virtually illegible if the code base’s flow is too convoluted—like a bowl of twisted, tangled spaghetti.
 
 when you search on GitHub Most of what you see is well-written programs, and that will make you think that spaghetti code is not a common issue, but in reality, most spaghetti code is not published because it is not understandable and that is an issue in my opinion and I will tell you why.
@@ -63,6 +63,4 @@ Most programs have a description of how to use each program, but in general, you
 4. Commit and push
 5. Wait for the pull request to be merged
 
-## License
----
-## Contacts
+
